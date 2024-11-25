@@ -26,27 +26,27 @@ The curriculum covers key topics such as kinematics, dynamics, work and energy, 
 
 ## 🛸 Introduction
 
-Welcome to the "CCDATRCL - Data Structures and Algorithms" repository! This collection of code and resources is dedicated to the educational exploration of fundamental data structures and algorithms.
+Welcome to the "CCPHYS1L - Physics 1" repository! This collection of resources and materials is dedicated to the comprehensive study of fundamental principles in classical physics.
 
-The "DATA STRUCTURES AND ALGORITHMS" course is designed to equip students with a deep understanding of the underlying principles and techniques that enable efficient and effective problem-solving in computer science.
+The "PHYSICS 1" course is designed to provide students with a thorough understanding of the core concepts that describe the physical world, focusing on mechanics, motion, and energy transformations.
 
-Data structures and algorithms are the building blocks of software development, allowing programmers to organize, process, and analyze data in a way that is both efficient and scalable. By mastering these concepts, students will gain a solid foundation in computer science and be able to tackle complex problems with confidence.
+Physics serves as the foundation for many scientific disciplines, offering insights into the behavior of matter and energy. By mastering these concepts, students will develop critical thinking and problem-solving skills that are essential for scientific inquiry and practical applications in various fields.
 
-This repository serves as a practical companion to the course, providing students with hands-on examples, exercises, and project templates to solidify their grasp of data structures and algorithms, including arrays, linked lists, stacks, queues, trees, graphs, and more. Through this repository, students will develop the skills to analyze problems, design efficient solutions, and implement them in a variety of programming languages.
+This repository serves as a practical companion to the course, providing students with hands-on experiments, simulations, and problem sets that reinforce the theoretical concepts covered in lectures. Topics include kinematics, dynamics, work and energy, momentum, and rotational motion. Through this repository, students will gain the ability to analyze physical systems, apply mathematical techniques, and conduct experiments to validate their understanding.
 
 ## 👷 Usage
 
-The purpose of the "DATA STRUCTURE AND ALGORITHM" course is to empower students with the skills necessary to design and implement efficient algorithms and utilize appropriate data structures.
+The purpose of the "PHYSICS 1" course is to equip students with the skills necessary to understand and apply the fundamental principles of mechanics in real-world scenarios.
 
-In the realm of software development, understanding data structures and algorithms is crucial for developing scalable and optimized solutions. By the end of this course, students are expected to comprehend various data structures, such as arrays, linked lists, stacks, queues, trees, and graphs, and be able to apply algorithms like sorting, searching, and graph traversal to solve real-world problems.
+In the realm of physics, a solid grasp of classical mechanics is crucial for understanding more advanced topics in science and engineering. By the end of this course, students are expected to comprehend key concepts such as motion, forces, energy conservation, and the laws governing rotational dynamics. They will also be able to apply these principles to solve practical problems and conduct experiments.
 
-The hands-on experience gained from working with this repository's code samples and projects aims to reinforce theoretical knowledge and prepare students for practical challenges in the field of data structure and algorithm implementation.
+The hands-on experience gained from working with this repository's experiments and problem sets aims to reinforce theoretical knowledge and prepare students for future studies in physics and related fields.
 
 ## 🚀 Key Features
 
-- **Educational Resources:** Find code snippets, examples, and projects that illustrate key data structures and algorithms covered in the course.
-- **Hands-On Exercises:** Engage in practical exercises to reinforce theoretical knowledge and enhance your problem-solving skills.
-- **Project Templates:** Use provided project templates to kickstart your assignments and projects for the course.
+- **Educational Resources:** Access lecture notes, problem sets, and reference materials that illustrate key concepts in classical mechanics.
+- **Hands-On Experiments:** Engage in practical experiments and simulations to reinforce theoretical understanding and enhance your observational skills.
+- **Problem-Solving Exercise:** Work through a variety of exercises designed to develop your ability to analyze and solve physics problems effectively.
 
 ## 📈 [Lesson](#lesson)              
 
@@ -54,35 +54,36 @@ The hands-on experience gained from working with this repository's code samples 
 
 #### Delivery Mode: Discussion, Program demonstration, Synchronous Class, Face-to-face
 
+### University Physics I - Mechanics, Sound, Oscillations, and Waves (OpenStax)
 
 | Week No. | Date Coverage | Topic                                                | Reference                                                                                           |
 |----------|---------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| 1        | August 5      | Class Orientation                                    | Course Syllabus                                                                                     |  
-|          |               | - Ø Concept of Abstraction                           |                                                                                                     | 
+| 1        | November 1    | Class Orientation                                    | Course Syllabus                                                                                     |  
+|          |               | - Ø University Physics 1                             |                                                                                                     | 
 |          |               | - Ø Review of types-definitions                      |                                                                                                     |   
 |          |               | - Ø Parameters and Parameter Pasing                  |                                                                                                     |  
 |          |               | - Ø Array Processing and Manipulation                |                                                                                                     |
-|          | August 8      | - Ø Abstract Data Types (ADTs)                       | Course Materials, PPT, Sample Programs                                                              |    
-|          |               | - Ø Introduction to Data Structures                  |                                                                                                     |
-| 2        | August 12     | 2.1 - Classes / Structure                            | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
-|          |               | 2.2 - Class Definition                               |                                                                                                     |
-|          | August 15     | Type Definition                                      |                                                                                                     |
-|          |               | Involving structures                                 |                                                                                                     |
-| 3        | August 19     | 3.1 - Linked-list                                    | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
-|          |               | 3.2 - Linked-list operations                         |                                                                                                    |
+|          | November 21   | - Ø Abstract Data Types (ADTs)                       | Course Materials, PPT, Sample Programs                                                              |    
+|          |               | - Ø Introduction to College Physics                  |                                                                                                     |
+| 2        | November 25   | 2.1 - Front Matter                                   | [Course Materials 🚀](https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax))                 |
+|          |               | 2.2 - Units and Measurements                         |                                                                                                     |
+|          | November 28   | 2.3 - Vectores                                       |                                                                                                     |
+|          |               | Types Vectors                                        |                                                                                                     |
+| 3        | December 2    | 3.1 - Motion Along The Straight Line                 | [Course Materials 🚀](https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax))                 |
+|          |               | 3.2 - Motion Along The Straight Line                 |                                                                                                    |
 |          | August 22     | 3.3 - Linked-list traversal                          |                                                                                                    |
 |          |               |                                                      |                                                                                                    |
-| 4        | August 26     | 4.1 - Stack Definition                               | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
+| 4        | August 26     | 4.1 - Stack Definition                               | [Course Materials 🚀](https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax))                 |
 |          |               | 4.2 - Stack Application                              |                                                                                                    |     
 |          | August 28     | 4.3 - Stack Implementation using an Array            |                                                                                                    | 
 |          |               | 4.4 - Stack Implementation using a Linked-list       |                                                                                                    |   
 |          |               |                                                      |                                                                                                    | 
-| 5        | September 2   | 5.1 Queue Definition                                 | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
+| 5        | September 2   | 5.1 Queue Definition                                 | [Course Materials 🚀](https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax))                 |
 |          |               | 5.2 Queue Application                                |                                                                                                    |
 |          | September 12  | 5.3 Queue Implementation using an Array              |                                                                                                    |
 |          |               | 5.4 Queue Implementation using a Linked-list         |                                                                                                    |
 |          |               |                                                      |                                                                                                    |
-| 6        | September 16  | 6.1 Binary Tree                                      | [Course Materials, PPT, Sample Programs🚀](https://github.com/flexycode/CCDATRCL)                  |
+| 6        | September 16  | 6.1 Binary Tree                                      | [Course Materials 🚀](https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax))                  |
 |          |               | 6.2 Binary Tree representation of expression         |                                                                                                    |
 |          |               | MIDTERM EXAM                                         |                                                                                                    |
 |          | September 26  | 6.3 Binary Traversal                                 |                                                                                                    |
@@ -90,27 +91,23 @@ The hands-on experience gained from working with this repository's code samples 
 |          |               | 6.4 Binary Search Trees                              |                                                                                                    |
 | 7        | September 30  | 6.5 Heap                                             |                                                                                                    |   
 |          |               |                                                      |                                                                                                    |
-| 7        | September 30  | 7.1 Hash Table                                       | [Course Materials, PPT, Sample Programs🚀](https://github.com/flexycode/CCDATRCL)                 |
+| 7        | September 30  | 7.1 Hash Table                                       | [Course Materials 🚀](https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax))                 |
 |          |               | 7.2 Hash Table Operations                            |                                                                                                    |
 | 8        | October 10    | 7.3 Open Hashing                                     |                                                                                                    |
 |          |               | 7.4 Closed Hashing                                   |                                                                                                    |
 |          |               |                                                      |                                                                                                    |
-| 11       | October 14    | 8.1 Graph Definition                                 | [Kindly give my repo_a star here💫](https://github.com/flexycode/flexycode)                        |
+| 11       | October 14    | 8.1 Graph Definition                                 | [Kindly give my repo_a star here💫](https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax))                        |
 |          |               | 8.2 Graph Application                                |                                                                                                    |
 | 12       | October 24    | 8.3 Graph Representation                             |                                                                                                    |
 |          |               | 8.4 Graph Traversal                                  |                                                                                                    |
 |          |               |                                                      |                                                                                                    |
-| 13       | October 28    | Presentation of Final Project                        | [Kindly give my_repo a star here💫](https://github.com/flexycode/flexycode)                        |
+| 13       | October 28    | Presentation of Final Project                        | [Kindly give my_repo a star here💫](https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax))                        |
 |          | November 7    |                                                      |                                                                                                    |
 
 
 <!-- End point insert background effect line of sight color rainbow -->
-<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
 
-# 💫 DATA STRUCTURES AND ALGORITHMS
-
-
-
+# 💫 💎 PHYSICS 1
 
 #### PHYSICS AND QUANTUM PHYSICS
 
