@@ -1,8 +1,11 @@
+<!-- Background github cover with short introduction down below -->
+<img src="https://github.com/flexycode/CCPHYS1L/blob/main/assets/physics_1.jpg" />
+
 # 💫 CCPHYS1L
 
 ### Name: [Jay Arre Talosig](https://github.com/flexycode)  
 ### Subject & Section: CCPHYS1L - COM231 
-### Professor:        
+### Professor: Clarisson Rizzie Canlubo
 ### No. of Units: 3 Units
 ### Prerequisite: [None](https://github.com/flexycode/CCPHYS1L)
 
