@@ -120,6 +120,24 @@ Coming Soon This fall off November
 
 💎 PHYSICS 1
 
+
+# 📫 Changelogs
+
+## [8.0.4] - 2024-12-12     
+### Added  
+- ✨ Create Repository for Physics
+
+### Changed
+- ✨ Folder set rename
+
+### Fixed 
+- ✨ Fix changelogs
+
+## [11.0.1] - 2024-12-16   
+### Added  
+- ✨ Physics Quiz
+
+
 <!-- Introduction Pannel button link, it will redirect to the top -->
 #### [Back to Table of Content](#ccphys1l)
 
