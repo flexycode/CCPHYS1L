@@ -5,7 +5,7 @@
 
 ### Name: [Jay Arre Talosig](https://github.com/flexycode)  
 ### Subject & Section: CCPHYS1L - COM231 
-### Professor: Clarisson Rizzie Canlubo
+### Professor: TBA
 ### No. of Units: 3 Units
 ### Prerequisite: [None](https://github.com/flexycode/CCPHYS1L)
 
@@ -141,7 +141,7 @@ Coming Soon This fall off November
 <!-- Introduction Pannel button link, it will redirect to the top -->
 #### [Back to Table of Content](#ccphys1l)
 
-<!-- End point line insert Thanks for visiting enjoy your day, feel free to modify this  -->
+<!-- End point line insert Thanks for visiting enjoy your day, feel free to modify this; Previous Professor "Clarisson Rizzie Canlubo"  -->
 ---
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
