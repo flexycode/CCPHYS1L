@@ -133,10 +133,13 @@ Coming Soon This fall off November
 ### Fixed 
 - ✨ Fix changelogs
 
-## [11.0.1] - 2024-12-16   
+## [12.0.1] - 2024-12-16   
 ### Added  
 - ✨ Physics Quiz
 
+## [01.0.1] - 2024-01-16   
+### Added  
+- ✨ Midterm Exam
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
 #### [Back to Table of Content](#ccphys1l)
