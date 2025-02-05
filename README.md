@@ -141,6 +141,12 @@ Coming Soon This fall off November
 ### Added  
 - ✨ Midterm Exam
 
+## [01.0.1] - 2024-02-21   
+### Added  
+- ✨ Laboratory Activity 1
+
+💫 CCPHYS1L - PHYSICS 1
+
 <!-- Introduction Pannel button link, it will redirect to the top -->
 #### [Back to Table of Content](#ccphys1l)
 
