@@ -141,6 +141,10 @@ Coming Soon This fall off November
 ### Added  
 - ✨ Midterm Exam
 
+## [01.0.1] - 2024-02-17   
+### Added  
+- ✨ Physics Quiz 2
+
 ## [01.0.1] - 2024-02-21   
 ### Added  
 - ✨ Laboratory Activity 1
