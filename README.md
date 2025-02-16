@@ -144,6 +144,7 @@ Coming Soon This fall off November
 ## [01.0.1] - 2024-02-17   
 ### Added  
 - ✨ Physics Quiz 2
+- ✨ Upload modules for last week
 
 ## [01.0.1] - 2024-02-21   
 ### Added  
