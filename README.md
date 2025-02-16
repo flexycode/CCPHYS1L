@@ -118,8 +118,20 @@ The hands-on experience gained from working with this repository's experiments a
 Coming Soon This fall off November
 ```
 
-💎 PHYSICS 1
+# 🔭 Acknowledgements   
 
+### ✨ Professor
+
+Professor Luigi R. Busa
+
+### ✨ Give credit to where it's due
+I want to acknowledge that I have incorporated some of my professor's files and code into my work.
+
+### ✨ Colleague and friends
+
+- 💎 I just wanted to take a moment to give thanks to [Brian De Vera](https://github.com/scarfer14) & [Luis Ryan](https://github.com/Yisaaaa) for providing some help and lecture notes for Physics. There support and insights made a big difference, and I truly appreciate it.
+  
+- 💎 Also the Class representative of section COM-231 for providing some updates for the class
 
 # 📫 Changelogs
 
