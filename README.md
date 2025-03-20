@@ -5,7 +5,7 @@
 
 ### Name: [Jay Arre Talosig](https://github.com/flexycode)  
 ### Subject & Section: CCPHYS1L - COM231 
-### Professor: TBA
+### Professor: Luigi R. Busa
 ### No. of Units: 3 Units
 ### Prerequisite: [None](https://github.com/flexycode/CCPHYS1L)
 
